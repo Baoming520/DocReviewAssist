@@ -1,0 +1,8 @@
+
+src/base_modules/DocxParser/.vs
+src/base_modules/DocxParser/DocxParser/bin
+src/base_modules/DocxParser/DocxParser/obj
+src/base_modules/DocxParser/DocxParser/DocxParser.csproj.user
+
+src/base_modules/DocxParser/DocxParserAPIs
+src/base_modules/DocxParser/packages
