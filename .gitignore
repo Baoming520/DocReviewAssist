@@ -6,8 +6,17 @@ src/base_modules/DocxParser/DocxParser/DocxParser.csproj.user
 src/base_modules/DocxParser/DocxParserAPIs
 src/base_modules/DocxParser/packages
 
+# Add all the ignored folders and files in the base_modules/ML project here:
+src/base_modules/ML/.vs
+src/base_modules/ML/ML/bin
+src/base_modules/ML/ML/obj
+src/base_modules/ML/ML.Algorithms/bin
+src/base_modules/ML/ML.Algorithms/obj
+
+
 # Add all the ignored folders and files in the modules/XMLValidator project here:
 src/modules/XMLValidator/.vs
 src/modules/XMLValidator/XMLValidator/bin
 src/modules/XMLValidator/XMLValidator/obj
 src/modules/XMLValidator/XMLValidator/XMLValidator.csproj.user
+
